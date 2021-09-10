@@ -1,2 +1,2 @@
-# gold
-The gold text editor
+# Common
+The "common sense" text editor
